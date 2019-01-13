@@ -1,5 +1,5 @@
 # Credit_card_Fraud_detection
-Credit card Fraued detection by using neural network
+Credit card Fraud detection by using neural network
 
 this repo refers to the credit card fraud detection by using the neural networks 
 
